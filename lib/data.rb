@@ -21,3 +21,12 @@ def sample_no_producer_data
     price: 20
   }
 end
+
+def sample_string_producer_data
+  {
+    name: 'String producers',
+    producers: "",
+    demand: 30,
+    price: 20
+  }
+end
